@@ -231,7 +231,7 @@ This repository contains the solutions in Java for the book [Elements of Program
 - [ ] 20.9 TestCollatzConjecture
 
 
-[Elements of Programming Interviews]:(https://www.amazon.in/Elements-Programming-Interviews-Adnan-Aziz/dp/9382359443)
-[Java]:(https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272)
-[Python]:(https://www.amazon.in/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
-[master]:(https://github.com/nyghtfury/ElementsOfProgrammingInterviews)
+[Elements of Programming Interviews]:https://www.amazon.in/Elements-Programming-Interviews-Adnan-Aziz/dp/9382359443
+[Java]:https://www.amazon.in/Elements-Programming-Interviews-Java-Insiders/dp/1517671272
+[Python]:https://www.amazon.in/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
+[master]:https://github.com/nyghtfury/ElementsOfProgrammingInterviews
